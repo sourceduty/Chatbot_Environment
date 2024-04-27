@@ -22,6 +22,7 @@ In a virtual environment tailored for chatbot simulations, chatbots engage with 
 In essence, this virtual environment facilitates the evolution of chatbot intelligence by simulating diverse conversational scenarios and enabling iterative refinement, ultimately ensuring optimal performance when deployed in real-world settings.
 
 #
+### Chatbot Environment Notes
 
 <details><summary>Multiple Chatbots</summary>
 <br>
