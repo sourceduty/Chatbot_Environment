@@ -2,7 +2,6 @@
 
 In a virtual environment tailored for chatbot simulations, chatbots engage with each other rather than human users. 
 
-#
 ### Chatbot Environment Plan Concept
 
 1. **Objective**: The core goal of this virtual space is to assess and refine chatbot functionalities, responses, and capabilities before actual deployment. It serves as a sandbox for developers to fine-tune their creations in an iterative manner.
@@ -22,7 +21,7 @@ In a virtual environment tailored for chatbot simulations, chatbots engage with 
 In essence, this virtual environment facilitates the evolution of chatbot intelligence by simulating diverse conversational scenarios and enabling iterative refinement, ultimately ensuring optimal performance when deployed in real-world settings.
 
 #
-### Chatbot Environment Notes
+### Notes
 
 <details><summary>Multiple Chatbots</summary>
 <br>
