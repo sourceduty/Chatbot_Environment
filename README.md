@@ -23,6 +23,8 @@ In essence, this virtual environment facilitates the evolution of chatbot intell
 
 The maximum number of chatbots that can participate effectively in a single conversation generally depends on the platform and the specific technical setup being used. For most systems, it's practical to have up to four or five chatbots in a conversation to maintain clarity and manageability. Beyond this number, the interaction can become overly complex and difficult to follow, potentially diminishing the quality and effectiveness of the simulation.
 
+Simulating large groups of chatbots, such as groups of 10, 25, or 50 chatbots, can be a complex but exciting endeavor. This type of simulation can be useful for stress testing a system, understanding chatbot interactions in a multi-agent environment, or demonstrating the scalability of a chatbot platform. For a role-playing scenario involving 10 different chatbots, design a complex social interaction such as a business meeting, a family gathering, or a community debate.
+
 #
 ### Related Links
 
