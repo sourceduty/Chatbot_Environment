@@ -53,6 +53,8 @@ The use of chat simulations in video games also serves as a vital tool in game d
 [Chat Simulator](https://chat.openai.com/g/g-pVviDoA7V-chat-simulator)
 <br>
 [Artificial Group Chat](https://github.com/sourceduty/Artificial_Group_Chat)
+<br>
+[Personality Template](https://chat.openai.com/g/g-SjVEuD3eZ-personality-template)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
