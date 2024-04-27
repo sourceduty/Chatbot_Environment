@@ -1,8 +1,8 @@
 ![Chatbot Environment](https://github.com/sourceduty/Chatbot_Environment/assets/123030236/fc5d646d-29b1-4877-ae23-aea8f4d97ca0)
 
-In a virtual environment tailored for chatbot simulations, chatbots engage with each other rather than human users. 
-
 ### Virtual Chatbot Environment Concept
+
+In a virtual environment tailored for chatbot simulations, chatbots engage with each other rather than human users. 
 
 1. **Objective**: The core goal of this virtual space is to assess and refine chatbot functionalities, responses, and capabilities before actual deployment. It serves as a sandbox for developers to fine-tune their creations in an iterative manner.
 
