@@ -19,7 +19,7 @@ In a virtual environment tailored for chatbot simulations, chatbots engage with 
 In essence, this virtual environment facilitates the evolution of chatbot intelligence by simulating diverse conversational scenarios and enabling iterative refinement, ultimately ensuring optimal performance when deployed in real-world settings.
 
 #
-### Mutliple Chatbots
+### Multiple Chatbots
 
 The maximum number of chatbots that can participate effectively in a single conversation generally depends on the platform and the specific technical setup being used. For most systems, it's practical to have up to four or five chatbots in a conversation to maintain clarity and manageability. Beyond this number, the interaction can become overly complex and difficult to follow, potentially diminishing the quality and effectiveness of the simulation.
 
