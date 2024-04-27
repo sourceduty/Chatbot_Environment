@@ -38,5 +38,12 @@ Developers must consider security and privacy implications when using virtual en
 
 In conclusion, a virtual environment for chatbot simulations is a valuable tool for developers to assess and enhance the performance of chatbots in a controlled and iterative manner. By simulating various scenarios, collecting data, and iterating on the chatbot's design, developers can ensure that the chatbot meets the intended requirements and delivers a seamless user experience when deployed in real-world applications.
 
+#
+### Related Links
+
+[Chat Simulator](https://chat.openai.com/g/g-pVviDoA7V-chat-simulator)
+<br>
+[Artificial Group Chat](https://github.com/sourceduty/Artificial_Group_Chat)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
