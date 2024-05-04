@@ -57,6 +57,8 @@ The use of chat simulations in video games also serves as a vital tool in game d
 [Personality Template](https://chat.openai.com/g/g-SjVEuD3eZ-personality-template)
 <br>
 [Trading Bot Simulator](https://chat.openai.com/g/g-OCgWKt0lF-trading-bot-simulator)
+<br>
+[Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
