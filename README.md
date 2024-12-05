@@ -57,6 +57,8 @@ The use of chat simulations in video games also serves as a vital tool in game d
 [Trading Bot Simulator](https://chat.openai.com/g/g-OCgWKt0lF-trading-bot-simulator)
 <br>
 [Coworking Automation](https://github.com/sourceduty/Coworking_Automation)
+<br>
+[Bot-2-Bot](https://github.com/sourceduty/Bot-2-BOt)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
